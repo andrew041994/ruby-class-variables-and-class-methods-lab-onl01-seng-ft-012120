@@ -29,11 +29,8 @@ attr_accessor :name, :artist, :genre
           genre_count[i]+=1
         else
           genre_count[i] = 1
-
-
-
        end
-
      end
+   end
 
 end
